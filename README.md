@@ -1,10 +1,5 @@
 # Lab1_project
 
-gk...glaemfek
+1 
 
-# glaenfj~~
-## tiq2ro
-### tiq3ro\
-* 1star
-* 2stae
-
+## 
