@@ -1,0 +1,3 @@
+[submodule "scr/scr/lab2"]
+	path = scr/scr/lab2
+	url = https://github.com/yeonsoo7/opensource.git
